@@ -61,7 +61,7 @@ Client Connected: 1
 
 ### Client Console Output:
 ```
-Enter messages (type 'dne' to terminate):
+Enter messages (type 'end' to terminate):
 Hello
 From Server: olleH
 Hii
