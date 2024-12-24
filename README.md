@@ -1,14 +1,14 @@
 
 # ReverseEcho Project
 
-This project demonstrates a simple client-server communication using Java. The server receives messages from the client, reverses them, and sends the reversed messages back. The communication ends when the client sends the message `dne` (which stands for "done").
+This project demonstrates a simple client-server communication using Java. The server receives messages from the client, reverses them, and sends the reversed messages back. The communication ends when the client sends the message `dne` (which stands for "end").
 
 ## Project Structure
 
 ```
 /reverseecho
     ├── ReverseEcho.java  (Server code)
-    └── Client.java       (Client code)
+/ Client.java       (Client code)
 ```
 
 ### 1. **ReverseEcho.java** (Server)
@@ -64,8 +64,8 @@ Client Connected: 1
 Enter messages (type 'dne' to terminate):
 Hello
 From Server: olleH
-ReverseEcho
-From Server: ohceR
+Hii
+From Server: iiH
 dne
 ```
 
